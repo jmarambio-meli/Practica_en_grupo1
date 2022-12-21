@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Soy el archivo 2 de Evelyn
+=======
+Archivo2
+>>>>>>> 7ab264464a40f92ab7f169be21dafb8770d4f099
