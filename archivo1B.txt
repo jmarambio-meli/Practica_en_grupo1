@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Cambios en archivos
+=======
 Archivo 1 b de jean
+>>>>>>> 74d9446f1a38bc9439184898a0ee072c4caa3fe7

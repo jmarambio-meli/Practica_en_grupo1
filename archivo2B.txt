@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Archivo de a cambiar para solucionar conflicto de jean
+=======
+Archivos de Evelyn, para resolver conflictos
+>>>>>>> a21f2e68163c63effffdbdb36ddfe84e21b21c74
